@@ -1,7 +1,9 @@
-#sikertelen{
+#sikertelen
+{
     list-style-image: url(/Img/icon_bad.png);
 }
 
-#sikeres{
+#sikeres
+{
     list-style-image: url(/Img/icon_good.png);
 }
