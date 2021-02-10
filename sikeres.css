@@ -1,9 +1,11 @@
 #sikertelen
 {
     list-style-image: url(Img/icon_bad.png);
+    border-style: outset;
 }
 
 #sikeres
 {
     list-style-image: url(Img/icon_good.png);
+    border-style: outset;
 }
