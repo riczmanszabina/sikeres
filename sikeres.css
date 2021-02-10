@@ -1,4 +1,3 @@
-ul
-{
-    list-style-image: url();
+#sikertelen{
+    list-style-image: url(/Img/icon_bad.png);
 }
