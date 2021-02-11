@@ -49,5 +49,5 @@ background-color: rgb(241, 251, 255) ;
 
 img
 {
-    vertical-align:middle;
+    display: inline-block;
 }
