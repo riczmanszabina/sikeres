@@ -17,6 +17,8 @@
     border-radius: 8px;
     border-bottom-width: 9px;
     border-right-width: 9px;
+    border-bottom-color: rgba(255, 0, 0, 20);
+    
 }
 
 #keretsikert
