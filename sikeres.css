@@ -14,10 +14,12 @@
 {
     border-style: outset;
     border-color: red;
+    border-radius: 8px;
 }
 
 #keretsikert
 {
     border-style: outset;
     border-color: green;
+    border-radius: 8px;
 }
