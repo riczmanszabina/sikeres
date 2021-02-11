@@ -35,3 +35,8 @@
     flex-flow: column wrap;
     height: 690px;
 }
+
+img
+{
+    width: 100px;
+}
