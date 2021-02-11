@@ -16,6 +16,7 @@
     border-color: red;
     border-radius: 8px;
     border-bottom-width: 9px;
+    border-right-width: 9px;
 }
 
 #keretsikert
@@ -24,4 +25,5 @@
     border-color: green;
     border-radius: 8px;
     border-bottom-width: 9px;
+    border-right-width: 9px;
 }
