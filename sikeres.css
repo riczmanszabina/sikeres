@@ -45,6 +45,6 @@
 img
 {
     width: 100px;
-    float: right;
+    display: inline-block;
     margin-right: 10px;
 }
