@@ -28,3 +28,10 @@
     border-bottom-width: 9px;
     border-right-width: 9px;
 }
+
+#hasab
+{
+    display: flex;
+    flex-flow: column wrap;
+    height: 690px;
+}
