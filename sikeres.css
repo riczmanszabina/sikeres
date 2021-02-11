@@ -13,9 +13,11 @@
 #keretsiker
 {
     border-style: outset;
+    color: red;
 }
 
 #keretsikert
 {
     border-style: outset;
+    color: green;
 }
