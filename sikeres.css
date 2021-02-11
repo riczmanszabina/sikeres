@@ -1,12 +1,14 @@
 #sikertelen
 {
     list-style-image: url(Img/icon_bad.png);
+    text-align: left;
     
 }
 
 #sikeres
 {
     list-style-image: url(Img/icon_good.png);
+    text-align: left;
     
 }
 
