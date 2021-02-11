@@ -46,3 +46,8 @@ background-color: rgb(241, 251, 255) ;
     flex-flow: column wrap;
     height: 300px;
 }
+
+img
+{
+    vertical-align:middle;
+}
