@@ -45,4 +45,6 @@
 img
 {
     width: 100px;
+    float: right;
+    margin-right: 10px;
 }
